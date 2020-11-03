@@ -11,7 +11,7 @@
 ./install-xcode-template.sh
 ```
 
-2. select `New file` to use SwiftUIFlux templates in xcode.
+2. select `New file` to use texture templates in xcode.
 
 ![](./.github/images/usage.png)
 
